@@ -46,3 +46,9 @@ The Operations Manager supervises production and inventory, ensuring:
 - Labor cost calculation and operational expenses  
 - Machinery registration and production process monitoring  
 
+### Manufacturer Employee  
+The Manufacturer Employee is responsible for daily production activities, including:  
+- Logging work times, raw materials used, and production progress  
+- Accessing work instructions and machinery usage guidelines  
+- Reporting defective equipment and material shortages to management
+

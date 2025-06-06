@@ -51,8 +51,11 @@ The Manufacturer Employee is responsible for daily production activities, includ
 - Logging work times, raw materials used, and production progress  
 - Accessing work instructions and machinery usage guidelines  
 - Reporting defective equipment and material shortages to management
+  
 
-  This project includes comprehensive system documentation:
+
+ ### This project includes comprehensive system documentation:
+ 
 - **Requirements Specification**: Complete breakdown of functional and non-functional requirements.
 - **User Scenarios and Use Cases**: Covering all primary operations across departments.
 - **Activity Diagrams**: Depicting key workflows such as login, user registration, payroll, and production tasks.

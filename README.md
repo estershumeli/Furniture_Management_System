@@ -52,3 +52,14 @@ The Manufacturer Employee is responsible for daily production activities, includ
 - Accessing work instructions and machinery usage guidelines  
 - Reporting defective equipment and material shortages to management
 
+  This project includes comprehensive system documentation:
+- **Requirements Specification**: Complete breakdown of functional and non-functional requirements.
+- **User Scenarios and Use Cases**: Covering all primary operations across departments.
+- **Activity Diagrams**: Depicting key workflows such as login, user registration, payroll, and production tasks.
+- **ER Diagram**: Relational model for core entities.
+- **Use Case Diagram**: Overall interaction overview between users and the system.
+- **Class Diagram**: Object structure for the main system entities and their relationships.
+- **State Diagrams**: Including lifecycle transitions for users, orders, training, invoices, and more.
+- **Sequence Diagrams**: State diagrams representing operational flows.
+- **Collaboration Diagrams**: Representing real-time object interactions across modules.
+
